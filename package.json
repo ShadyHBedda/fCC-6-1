@@ -1,0 +1,19 @@
+{
+  "name": "prime-number-checker",
+  "version": "1.0.0",
+  "description": "This module exports a function `isPrime` that returns whether a given number is prime.",
+  "keywords": [
+    "prime",
+    "check-prime",
+    "primality",
+    "math",
+    "mathematics"
+  ],
+  "license": "MIT",
+  "author": "Shady H. Bedda",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  }
+}
